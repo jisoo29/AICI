@@ -102,4 +102,3 @@ AICI시스템으로 사외 공사를 신고하고, 관리 및 자동 응대를 �
     ├── users
     └── voc
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoo29&layout=compact)](https://github.com/jisoo29/github-readme-stats)
